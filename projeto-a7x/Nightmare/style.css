@@ -1,0 +1,39 @@
+h1 {
+    align-items: center;
+    justify-content: center;
+    display: flex;
+}
+
+body {
+    background-image: linear-gradient(to left, #af9b9b, #e94444);
+}
+p {
+    border-radius: 5px;
+    display: inline-block;
+    border-radius: 5px;
+    padding: 10px;
+    background-color: rgb(137, 194, 194);
+    border: 1px solid #ccc; 
+    box-shadow: 0 0 10px rgba(0, 0, 0, 0.5)
+}
+
+img {
+    display: block;
+    margin: auto;
+    width: 30%;
+    border-radius: 5px;
+}
+
+section a {
+    position: relative;
+    bottom: 30px;
+    left: 30px;
+    text-decoration: none;
+    color: black;
+    font-size: larger;
+    background-color: hsl(152, 100%, 50%);
+    border-radius: 5px;
+    padding: 10px;
+    border: 1px solid #ccc; 
+    box-shadow: 0 0 10px rgba(0, 0, 0, 0.5);
+}
